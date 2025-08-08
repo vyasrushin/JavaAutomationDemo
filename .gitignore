@@ -1,0 +1,28 @@
+# Ignore compiled class files
+*.class
+
+# Ignore logs
+*.log
+/logs/
+/target/
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore screenshots and test reports
+/screenshots/
+/test-output/
+/allure-results/
+/test-results/
+/reports/
+
+# Ignore IDE/project files
+*.iml
+.idea/
+.vscode/
+*.swp
+
+# Ignore environment/config files (optional)
+*.env
+config.properties

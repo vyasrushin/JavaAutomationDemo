@@ -1,0 +1,11 @@
+<suite name="DemoQA Web Table Suite" parallel="false">
+	<parameter name="browser" value="firefox"/>
+	<parameter name="appUrl" value="https://demoqa.com/webtables"/>
+    <parameter name="dataType" value="json"/>
+    <parameter name="fileName" value="testDatajson.json"/>
+    <test name="WebTableTests">
+        <classes>
+            <class name="tests.WebTablesTests"/>
+        </classes>
+    </test>
+</suite>

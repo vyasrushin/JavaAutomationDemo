@@ -1,0 +1,34 @@
+{
+    "TC1": {
+        "firstName": "JohnA",
+        "lastName": "DoeA",
+        "email": "JohnA.DoeA@test.com",
+        "age": "28",
+        "salary": "7000",
+        "department": "HR"
+    },
+    "TC2": {
+        "firstName": "Alice",
+        "lastName": "Smith",
+        "email": "Alice.Smith@test.com",
+        "age": "32",
+        "salary": "8000",
+        "department": "IT"
+    },
+    "TC3": {
+        "firstName": "Bob",
+        "lastName": "Brown",
+        "email": "Bob.Brown@test.com",
+        "age": "45",
+        "salary": "9000",
+        "department": "Finance"
+    },
+    "TC4": {
+        "firstName": "Carol",
+        "lastName": "Johnson",
+        "email": "Carol.Johnson@test.com",
+        "age": "29",
+        "salary": "7500",
+        "department": "Marketing"
+    }
+}
