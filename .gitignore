@@ -22,7 +22,3 @@ Thumbs.db
 .idea/
 .vscode/
 *.swp
-
-# Ignore environment/config files (optional)
-*.env
-config.properties
